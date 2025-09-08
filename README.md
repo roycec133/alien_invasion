@@ -3,7 +3,7 @@ Alien Invasion (Python / Pygame)
 A 2D space shooter game built with Python and Pygame.
 The player controls a spaceship, shoots aliens, and tries to survive as the game difficulty increases.
 
- Features
+ Features - 
 Move the ship left and right across the screen
 Shoot bullets upward to destroy aliens
 Alien fleet that moves and descends
