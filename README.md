@@ -17,29 +17,15 @@ Python 3.9.13
 
   How to Run
   
-On Linux
-  Clone this repository:
-git clone https://github.com/roycec133/alien_invasion.git
-cd alien_invasion
-  Create and activate a virtual environment:
-python3 -m venv venv
-source venv/bin/activate
-  Install dependencies:
-pip install pygame
-  Run the game:
-python alien_invasion.py
+Running on Linux
 
-On Windows
-  Clone this repository:
-git clone https://github.com/roycec133/alien_invasion.git
-cd alien_invasion
-  Create and activate a virtual environment:
-python -m venv venv
-.\venv\Scripts\activate
-  Install dependencies:
+To run the game on Linux, start by cloning the repository with git clone https://github.com/roycec133/alien_invasion.git and then move into the project directory using cd alien_invasion. Next, create a virtual environment with python3 -m venv venv and activate it by running source venv/bin/activate. Once the environment is active, install the required dependency using pip install pygame. Finally, launch the game with python alien_invasion.py.
 
-pip install pygame
-  Run the game:
-python alien_invasion.py
+Running on Windows
+
+To run the game on Windows, begin by cloning the repository with git clone https://github.com/roycec133/alien_invasion.git and navigate into the directory using cd alien_invasion. Create a virtual environment by running python -m venv venv and activate it with .\venv\Scripts\activate. After activation, install Pygame using pip install pygame. Once the installation is finished, you can start the game by running python alien_invasion.py.
+
+ Note on Virtual Environments
+Using a virtual environment is optional but recommended. It helps keep your dependencies organized and avoids conflicts with other Python projects on your system.
 
 ![python_KlShlVgAUT](https://github.com/user-attachments/assets/00bdf84d-7f42-4009-b950-fe71efa7de2a)
